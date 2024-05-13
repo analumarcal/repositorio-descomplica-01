@@ -1,0 +1,12 @@
+img {
+    height: 650px;
+    padding: 5px;
+    border: 5px solid greenyellow;
+    border-radius: 25px;
+}
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
